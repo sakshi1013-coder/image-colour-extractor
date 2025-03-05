@@ -1,4 +1,4 @@
-<img width="1710" alt="Screenshot 2025-03-05 at 10 58 57 PM" src="https://github.com/user-attachments/assets/9de4e9f7-43df-4a5f-af34-7cec154877be" />#Image Color Palette Extractor
+IMAGE COLOUR PALATTE EXTRACTOR
 
 
 The Image Color Palette Extractor is a Python application that allows users to extract dominant colors from an image and generate color palettes. 
